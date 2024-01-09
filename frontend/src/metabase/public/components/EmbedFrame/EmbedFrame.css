@@ -54,5 +54,5 @@ body {
 }
 
 .Theme--transparent.EmbedFrame .DashCard .Card {
-  background-color: transparent;
+  background-color: white;
 }
